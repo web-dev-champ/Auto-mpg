@@ -111,5 +111,3 @@ Some of the key plots include:
 📧 *[srijansen201@gmail.com](mailto:srijansen201@gmail.com)* | 🔗 [LinkedIn](https://www.linkedin.com/in/srijan-sen-b2505222a/) | 💻 [GitHub](https://github.com/web-dev-champ/)
 
 ---
-
-If you want, I can also add **inline preview images** of your plots into this README so it visually pops on GitHub. Would you like me to do that?
